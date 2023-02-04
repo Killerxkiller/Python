@@ -109,3 +109,4 @@ Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a ti
 No coredumps found.
 
 (cinnamon:1612): Clutter-WARNING **: 09:42:07.348: Attempting to remove actor of type 'StIcon' from group of class 'ClutterBox', but the container is not the actor's parent.
+sys:1: Warning: g_hash_table_foreach: assertion 'version == hash_table->version' failed

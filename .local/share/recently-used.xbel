@@ -3,12 +3,13 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/sondinh/Downloads/code_1.75.0-1675266613_amd64.deb" added="2023-02-04T02:57:10.687646Z" modified="2023-02-04T02:57:10.687665Z" visited="2023-02-04T02:57:10.687647Z">
+  <bookmark href="file:///home/sondinh/Downloads/code_1.75.0-1675266613_amd64.deb" added="2023-02-04T02:57:10.687646Z" modified="2023-02-04T03:15:26.468600Z" visited="2023-02-04T02:57:10.687647Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.debian.binary-package"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-02-04T02:57:10.687655Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;gdebi-gtk %f&apos;" modified="2023-02-04T03:15:26.468599Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -4,6 +4,7 @@ collector.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19392	230661664
 code.visualstudio.com^partitionKey=%28http%2Cvisualstudio.com%29:HSTS	0	19392	1707015172017,1,0
 firefox.settings.services.mozilla.com:HSTS	0	19392	1707014035298,1,0
 services.addons.mozilla.org:HSTS	0	19392	1707014034959,1,0
+docs.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19392	1707036902328,1,0
 alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19392	1707014505625,1,0
 incoming.telemetry.mozilla.org:HSTS	0	19392	1707014035603,1,0
 api.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19392	1707014120636,1,1
