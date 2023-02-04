@@ -1,0 +1,231 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/sondinh/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/sondinh
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=sondinh
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/sondinh/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/sondinh
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/sondinh
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting USER=sondinh
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/sondinh/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+cinnamon-session[1515]: WARNING: t+0,06453s: Child process 1775 was already dead.
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+mutter-Message: 01:48:07.609: Enabling experimental feature 'x11-randr-fractional-scaling'
+Gjs-Message: 01:48:07.826: Profiler is disabled. Not setting up signals.
+Gjs-Message: 01:48:07.937: JS LOG: About to start Cinnamon
+Gjs-Message: 01:48:07.976: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 36 ms
+Gjs-Message: 01:48:07.978: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 01:48:07.989: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+
+(cinnamon:1915): Gjs-WARNING **: 01:48:07.996: Some code accessed the property 'UiActor' on the module 'layout'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Gjs-Message: 01:48:08.063: JS LOG: [LookingGlass/info] loaded at Thu Feb 02 2023 01:48:08 GMT+0700 (Indochina Time)
+Gjs-Message: 01:48:08.063: JS LOG: Cinnamon started at Thu Feb 02 2023 01:48:08 GMT+0700 (Indochina Time)
+Gjs-Message: 01:48:08.063: JS LOG: GPU offload supported: false
+Gjs-Message: 01:48:08.072: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Gjs-Message: 01:48:08.072: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 01:48:08.072: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 01:48:08.108: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 01:48:08.110: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 14 ms
+Gjs-Message: 01:48:08.115: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 5 ms
+Gjs-Message: 01:48:08.118: JS LOG: [LookingGlass/info] Installing settings for favorites@cinnamon.org
+Gjs-Message: 01:48:08.118: JS LOG: [LookingGlass/info] Settings successfully installed for favorites@cinnamon.org
+Gjs-Message: 01:48:08.122: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 7 ms
+Gjs-Message: 01:48:08.124: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Gjs-Message: 01:48:08.124: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Gjs-Message: 01:48:08.151: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 29 ms
+Gjs-Message: 01:48:08.159: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 8 ms
+Gjs-Message: 01:48:08.166: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Gjs-Message: 01:48:08.166: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Gjs-Message: 01:48:08.170: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 01:48:08.188: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 29 ms
+Gjs-Message: 01:48:08.191: JS LOG: [LookingGlass/info] Installing settings for cornerbar@cinnamon.org
+Gjs-Message: 01:48:08.191: JS LOG: [LookingGlass/info] Settings successfully installed for cornerbar@cinnamon.org
+Gjs-Message: 01:48:08.201: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 13 ms
+Gjs-Message: 01:48:08.224: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 23 ms
+Gjs-Message: 01:48:08.241: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 17 ms
+Gjs-Message: 01:48:08.245: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Gjs-Message: 01:48:08.245: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Gjs-Message: 01:48:08.285: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 44 ms
+Gjs-Message: 01:48:08.308: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Gjs-Message: 01:48:08.309: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Gjs-Message: 01:48:08.317: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 32 ms
+Gjs-Message: 01:48:08.320: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Gjs-Message: 01:48:08.320: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Gjs-Message: 01:48:08.331: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 01:48:08.331: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 01:48:08.336: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 19 ms
+blueman-applet 01.48.08 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 01:48:08.405: JS LOG: calendar@cinnamon.org: Calendar events supported.
+
+** (csd-power:1776): CRITICAL **: 01:48:08.419: abs_to_percentage: assertion 'max > min' failed
+blueman-applet 01.48.08 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+Gjs-Message: 01:48:08.435: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.46/org/x/StatusIcon/Icon)
+Gjs-Message: 01:48:08.450: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Gjs-Message: 01:48:08.451: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+cinnamon-session[1515]: WARNING: t+1,38992s: Detected that screensaver has appeared on the bus
+Gjs-Message: 01:48:08.474: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 138 ms
+Gjs-Message: 01:48:08.495: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.46/org/x/StatusIcon/Icon)
+Gjs-Message: 01:48:08.497: JS LOG: [LookingGlass/info] Installing settings for network@cinnamon.org
+Gjs-Message: 01:48:08.497: JS LOG: [LookingGlass/info] Settings successfully installed for network@cinnamon.org
+Gjs-Message: 01:48:08.501: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 27 ms
+Gjs-Message: 01:48:08.514: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Gjs-Message: 01:48:08.514: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+** Message: 01:48:08.524: nemo-desktop: session is cinnamon, establishing proxy
+Gjs-Message: 01:48:08.591: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 90 ms
+Gjs-Message: 01:48:08.592: JS LOG: [LookingGlass/info] AppletManager started in 529 ms
+Gjs-Message: 01:48:08.594: JS LOG: [LookingGlass/info] Cinnamon took 657 ms to start
+Gjs-Message: 01:48:08.604: JS LOG: Unknown network device type, is 14
+Gjs-Message: 01:48:08.613: JS LOG: Unknown network device type, is 30
+Gjs-Message: 01:48:08.621: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: blueman (:1.44/org/x/StatusIcon/Icon)
+Gjs-Message: 01:48:11.947: JS LOG: Enabling WindowAttentionHandler
+Gjs-Message: 18:48:27.564: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.72/org/x/StatusIcon/Icon)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1332: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+Gjs-Message: 18:48:28.412: JS LOG: [LookingGlass/info] Removing XAppStatusIcon: mintUpdate.py (:1.72/org/x/StatusIcon/Icon)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1704: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+Gjs-Message: 18:48:28.492: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.74/org/x/StatusIcon/Icon)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:770: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00003
+cinnamon-session[1515]: WARNING: t+31,39470s: Detected that screensaver has left the bus
+Gjs-Message: 18:48:48.335: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.77/org/x/StatusIcon/Icon)
+Gjs-Message: 18:48:48.339: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.77/org/x/StatusIcon/Icon_1)
+/usr/lib/linuxmint/mintSources/mintSources.py:68: PyGIDeprecationWarning: GObject.idle_add is deprecated; use GLib.idle_add instead
+  GObject.idle_add(func, *args)
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.632: gtk_list_store_set_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.633: gtk_list_store_set_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.636: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+
+(mintSources.py:2308): Gtk-CRITICAL **: 18:48:57.637: gtk_list_store_get_value: assertion 'iter_is_valid (iter, list_store)' failed
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1333: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+Gjs-Message: 18:49:25.768: JS LOG: [LookingGlass/info] Removing XAppStatusIcon: mintUpdate.py (:1.74/org/x/StatusIcon/Icon)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:761: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1705: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:768: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 18:49:25.902: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.78/org/x/StatusIcon/Icon)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: Using positional arguments with the GObject constructor has been deprecated. Please specify keyword(s) for "parent, flags, message_type, buttons, message_format" or use a class specific constructor. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: The keyword(s) "message_format" have been deprecated in favor of "text" respectively. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: The "flags" argument for dialog construction is deprecated. Please use initializer keywords: modal=True and/or destroy_with_parent=True. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:513: DeprecationWarning: Gtk.Misc.set_alignment is deprecated
+  label.set_alignment(0, 0.5)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:514: DeprecationWarning: Gtk.Misc.set_padding is deprecated
+  label.set_padding(20, 0)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: Using positional arguments with the GObject constructor has been deprecated. Please specify keyword(s) for "parent, flags, message_type, buttons, message_format" or use a class specific constructor. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: The keyword(s) "message_format" have been deprecated in favor of "text" respectively. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:472: PyGTKDeprecationWarning: The "flags" argument for dialog construction is deprecated. Please use initializer keywords: modal=True and/or destroy_with_parent=True. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  dialog = Gtk.MessageDialog(self.application.window, Gtk.DialogFlags.MODAL | Gtk.DialogFlags.DESTROY_WITH_PARENT, Gtk.MessageType.WARNING, Gtk.ButtonsType.OK_CANCEL, None)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x400007
+cinnamon-session[1515]: WARNING: t+481,36055s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+Gjs-Message: 18:56:08.702: JS LOG: [LookingGlass/info] Removing XAppStatusIcon: blueman (:1.44/org/x/StatusIcon/Icon)
+cinnamon-session[1515]: WARNING: t+482,61863s: Finished playing logout sound
+cinnamon-session[1515]: WARNING: t+482,61914s: Resuming logout sequence...
